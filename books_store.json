@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "title": "12 prac Herkulesa Poirot",
+      "author": "Agatha Christie",
+      "price": 12.99,
+      "releaseDate": 1918,
+      "category": "CRIME"
+    },
+    {
+      "title": "JAWS",
+      "author": "Peter Benchley",
+      "price": 9.97,
+      "releaseDate": 1974,
+      "category": "THRILLER"
+    },
+    {
+      "title": "Witcher",
+      "author": "Andrzej Sapkowski",
+      "price": 10.99,
+      "releaseDate": 1980,
+      "category": "FANTASY"
+    }
+  ]
+}
